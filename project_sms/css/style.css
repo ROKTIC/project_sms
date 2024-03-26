@@ -1,0 +1,160 @@
+* {
+  margin: 10px auto;
+
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 20px auto;
+  width: 80vw;
+  height: 100%;
+
+  font-family: "Sunflower", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+
+  background-color: whitesmoke;
+}
+
+#wrapper {
+  /* height: 90vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+header {
+  margin-bottom: 10px;
+  text-align: center;
+  color: #0a2463;
+}
+
+#wrapper .top-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 0px;
+
+}
+
+#wrapper .top-nav input {
+  height: 50px;
+  border: 3px solid #282828;
+  border-radius: 7px;
+  background-color: #F9FFFF;
+  color: #282828;
+}
+
+#wrapper .top-nav input:focus {
+  border: 4px solid #161a1d;
+  border-radius: 10px;
+
+}
+
+#wrapper .top-nav input:hover {
+  border: 4px solid #161a1d;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+
+#wrapper .top-nav .nav-input input {
+  text-align: center;
+  font-style: normal;
+}
+
+#wrapper .top-nav .nav-input .input-score {
+  border-color: #000000;
+}
+
+#wrapper .top-nav .nav-btn {
+  width: 10%;
+}
+
+#wrapper .top-nav .nav-btn button:hover {
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+
+article {
+
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+}
+
+article .article-left {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  margin: auto 0;
+  padding-left: 53px;
+}
+
+/* article .article-left .input-group mb-3 {} */
+
+article .article-left select {
+  width: 90px;
+  height: 90%;
+  border: 4px double #828282;
+  border-radius: 4px;
+  text-align: center;
+}
+article .article-right select {
+  width: 90px;
+  border: 2px solid #0a2463;
+  border-radius: 4px;
+  text-align: center;
+  color: #0a2463;
+}
+
+article .article-right {
+  /* float: right; */
+  width: 50%;
+  text-align: right;
+  margin: 0px auto;
+  font-size: large;
+  border-bottom: 2.2px solid #0a2463;
+
+}
+
+article .article-right input {
+  width: 60px;
+  border: 2px solid black;
+}
+
+main {
+  width: 100%;
+
+}
+
+main table {
+  text-align: center;
+}
+
+main table thead {
+
+  border-bottom: 5px solid #0a2463;
+}
+
+main table tfoot {
+  border-top: 6px double #0a2463;
+
+}
+
+body .footer-nav ul .page-item .page-link {
+  color: #403d39;
+}
+
+body .footer-nav ul .page-item .page-link:hover{
+  background-color: #0a2463;
+  color: #F4FFFF;
+  transition: 0.7s;
+}
+
+body .footer-nav {
+  margin: -20px auto;
+}
