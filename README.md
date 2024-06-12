@@ -22,9 +22,11 @@
 -  등록된 학생들의 총점, 평균, 순위 등을 확인할 수 있음
 -  이름, 학번 등의 조건으로 원하는 데이터를 검색 가능
 -  학번, 이름, 총점 등 원하는 조건으로 전체 리스트를 정렬 가능
-  | 정렬화면 |
-|----------|
-| <img width="265" alt="스크린샷 2024-06-12 15 12 11" src="https://github.com/ROKTIC/project_sms/assets/38402914/2d5954e6-0d9b-408a-a319-a54def7f2fdd">|
+
+
+   | 정렬화면 |
+   |----------|
+   | <img width="260 alt="스크린샷 2024-06-12 15 12 11" src="https://github.com/ROKTIC/project_sms/assets/38402914/2d5954e6-0d9b-408a-a319-a54def7f2fdd">|
 
 
 
