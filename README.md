@@ -26,7 +26,8 @@
 
    | 정렬화면 |
    |----------|
-   | <img width="260 alt="스크린샷 2024-06-12 15 12 11" src="https://github.com/ROKTIC/project_sms/assets/38402914/2d5954e6-0d9b-408a-a319-a54def7f2fdd">|
+   |<img width="265" alt="스크린샷 2024-06-12 15 12 11" src="https://github.com/ROKTIC/project_sms/assets/38402914/8ae48793-7a67-407e-91bb-e077769d79b9">|
+
 
 
 
